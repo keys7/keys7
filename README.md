@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, Shubham Verma
+#### Programmer
+![Programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**keys7/keys7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate Hard-working web developer with a flair for
+creating elegant solutions in the least amount of time. I work
+closely with my clients to develop strong brand identities that
+define and exhibit values and professional visual entities to
+define your tone. I am a strong team player. Developed many
+resume websites, and several personal web projects. Passionate
+about Software Engineering and Data Structures and
+Algorithms. Regular attendee of web developer meetups and
+hackathons.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: C/C++ / JAVA / JS / HTML / CSS
