@@ -1,4 +1,4 @@
-### Hi there 👋, Shubham Verma
+### Shubham Verma
 #### Programmer
 I am a passionate Hard-working web developer with a flair for
 creating elegant solutions in the least amount of time. I work
