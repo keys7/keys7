@@ -1,7 +1,5 @@
 ### Hi there 👋, Shubham Verma
 #### Programmer
-![Programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
 I am a passionate Hard-working web developer with a flair for
 creating elegant solutions in the least amount of time. I work
 closely with my clients to develop strong brand identities that
