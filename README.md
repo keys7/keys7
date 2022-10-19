@@ -1,7 +1,7 @@
 ![](https://github.com/keys7/keys7/blob/main/white%20modern%20businessman%20programmer%20LinkedIn%20banner.png)
 
-### Shubham Verma
-I am a passionate Hard-working web developer with a flair for
+### **Shubham Verma
+**I am a passionate Hard-working web developer with a flair for
 creating elegant solutions in the least amount of time. I work
 closely with my clients to develop strong brand identities that
 define and exhibit values and professional visual entities to
