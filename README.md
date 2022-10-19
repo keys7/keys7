@@ -26,8 +26,15 @@ hackathons.
 
 
 ## Example of Work
-<img src= "https://github.com/keys7/keys7/blob/main/learn_how_code.gif" width = "250"/>
-<img src= "https://github.com/keys7/keys7/blob/main/TradePreNew_giff.gif" width = "250"/>
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/keys7/keys7/blob/main/learn_how_code.gif" alt="Learn_How_To_Code" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/keys7/keys7/blob/main/TradePreNew_giff.gif" alt="TradePreNews" style="width:100%">
+  </div>
+</div>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/keys7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shubham-verma-84a5b1229//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_keys._//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/keys__7)  
 
