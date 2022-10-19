@@ -11,7 +11,9 @@ about Software Engineering and Data Structures and
 Algorithms. Regular attendee of web developer meetups and
 hackathons.
 
-Skills: C/C++ / JAVA / JS / HTML / CSS
+## Skills and Experience
+
+* 💻 C/C++ / JAVA / JS / HTML / CSS
 
 - 🔭 I’m currently working on this page.I’m currently working on my personal project.  
 - 🌱 I’m currently learning I’m currently learning more about Web-Development   
