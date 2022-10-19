@@ -1,4 +1,4 @@
-![](https://media-exp1.licdn.com/dms/image/D4D16AQFDFL4DNFMOqw/profile-displaybackgroundimage-shrink_350_1400/0/1666202575113?e=1671667200&v=beta&t=91KyPdSZuqy7ZUoPOXKOTT1JXQTvsuEUPqepGYM8GRc)
+![](https://github.com/keys7/keys7/blob/main/white%20modern%20businessman%20programmer%20LinkedIn%20banner.png)
 
 ### Shubham Verma
 I am a passionate Hard-working web developer with a flair for
