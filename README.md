@@ -13,10 +13,10 @@ hackathons.
 
 ## Skills and Experience
 
-* 💻 C/C++ / JAVA / JS / HTML / CSS
+* 💻 C/C++ / JAVA / JS / HTML / CSS / Dart / Flutter-App-Development
 
 - 🔭 I’m currently working on this page.I’m currently working on my personal project.  
-- 🌱 I’m currently learning I’m currently learning more about Web-Development   
+- 🌱 I’m currently learning I’m currently learning more about App-Development   
 - 👯 I’m looking to collaborate on I’m looking to collaborate on more development based projects  
 - 🤔 I’m looking for help with I’m looking for help with my personal development projects. 
 - 💬 Ask me about Ask me about Java or any tech-related stuff.  
