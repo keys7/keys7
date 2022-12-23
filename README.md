@@ -30,11 +30,9 @@ hackathons.
   <img src="https://github.com/keys7/keys7/blob/main/learn_how_code.gif" width="350" />
   <img src="https://github.com/keys7/keys7/blob/main/TradePreNew_giff.gif" width="350" /> 
   <img src="https://github.com/keys7/keys7/blob/main/cakeinandoutgif.gif" width="350" />
+  <img src="https://raw.githubusercontent.com/keys7/keys7/main/image_1.jpg" width="350" />
+  <img src="https://raw.githubusercontent.com/keys7/keys7/main/image_2.jpg" width="350" />
 </p>
-
-![image_1](https://user-images.githubusercontent.com/101874897/209314805-df9079b4-b361-412f-916c-f5ab95f36e50.jpg)
-
-![image_2](https://user-images.githubusercontent.com/101874897/209314819-212613cb-cfc7-4c3b-a19c-5b572ac5a0fb.jpg)
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/keys7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shubham-verma-84a5b1229//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/_keys._//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/keys__7)  
