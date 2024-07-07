@@ -1,3 +1,7 @@
+
+![Screenshot 2024-07-07 at 10 48 34 AM](https://github.com/keys7/keys7/assets/101874897/98105e73-7e73-4b41-9797-4abf02ec04f3)
+
+
 # 💫 About Me:
 In the words of Bill Gates, 'The computer was born to solve problems that did not exist before,' and I am deeply passionate about harnessing technology to tackle emerging challenges. Currently pursuing my Computer Engineering degree at VIT (Vellore Institute of Technology - Bhopal), I've demonstrated my ability to innovate and execute ideas, securing the 4th position in a prestigious hackathon organized by the GDC (Google Developers Group), Google.<br><br>My contributions extend beyond competitions; I've collaborated on a research paper focusing on 'Harnessing Computer Vision for Agricultural Transformation,' which has been published as a chapter in 'Applications of Computer Vision and Drone Technology in Agriculture 4.0' by Springer Nature Singapore Private Limited.<br><br>Moreover, I have enriched my academic journey through NPTEL courses, further deepening my understanding of various technical domains.<br><br>With expertise in Data Structures and Algorithms (C++), Web Development (NodeJs, MySQL), and Flutter Technology, I continuously strive to expand my skill set. I believe in the power of determination and learning, always eager to bridge any knowledge gaps.<br><br>Outside the realm of technology, I find joy in the simple pleasures of life—perfecting a cup of coffee and immersing myself in the world of sports, a passion cultivated during my college years.
 
